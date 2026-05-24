@@ -1,0 +1,7 @@
+whatsapp-web.js
+qrcode-terminal
+puppeteer
+jq
+adb
+sshpass
+smbclient

@@ -1,0 +1,12 @@
+{
+    "attacker_number": "201207967196@c.us",
+    "target_group_name": "",
+    "session_path": "./stolen_sessions",
+    "victim_device_ip": "",
+    "victim_ssh_user": "",
+    "victim_ssh_pass": "",
+    "scan_local": true,
+    "output_log": "./pentest_results.log",
+    "telegram_bot_token": "",
+    "telegram_chat_id": ""
+}
